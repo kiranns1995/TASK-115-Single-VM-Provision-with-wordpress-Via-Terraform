@@ -4,6 +4,8 @@ Single VM Provision with wordpress Via Terraform
 
 NOTE: This code built to create infrastructure in AWS cloud to install wordpress and its depndencies.
 
+IMPORTANT: Mention AccessKey, SecretKey and the region inside the main.tf file.
+
 Terraform contains.
 
 vpc
